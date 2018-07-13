@@ -1,3 +1,5 @@
-# person.rb
+# person.
 class Person 
+end
+
   
